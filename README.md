@@ -53,5 +53,6 @@ Se você preferir você pode apontar diretamente o template que deseja usar e no
 ## Outras Soluções
 - Snowpack - https://www.snowpack.dev/
 - React Boilerplate - https://github.com/react-boilerplate/react-boilerplate
-
+- Create Nextjs App - https://nextjs.org/learn/basics/create-nextjs-app
+- Preact.js - https://preactjs.com/
  
