@@ -56,3 +56,5 @@ Se você preferir você pode apontar diretamente o template que deseja usar e no
 - Create Nextjs App - https://nextjs.org/learn/basics/create-nextjs-app
 - Preact.js - https://preactjs.com/
  
+ ## Comando para a criação do projeto.
+ - yarn create vite my_app --template react-ts
