@@ -21,5 +21,5 @@ O Vite 2.0 vem com um tempo de construção mais rápido usando esbuild . esbuil
 
 Vite 2.0 usa esbuild para converter módulos CommonJS em ESM para dependências. De acordo com a nota de versão do Vite 2.0 s , usando esbuild em vez de Rollup leva a um grande aumento de desempenho no tempo de construção. Atualmente, esbuild é usado para dependências de pré-agrupamento, mas a equipe Vite está planejando mudar completamente para esbuild no futuro.
 
-
+- ESM nativo - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
  
