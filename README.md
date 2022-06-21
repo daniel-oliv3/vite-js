@@ -58,3 +58,9 @@ Se você preferir você pode apontar diretamente o template que deseja usar e no
  
  ## Comando para a criação do projeto.
  - yarn create vite my_app --template react-ts
+
+#### Instalar o node_modules
+ - yarn install
+
+#### Roda o projeto 
+ - yarn dev
